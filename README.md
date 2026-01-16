@@ -41,4 +41,4 @@ Today, I lead **Rivra LLC**, where I apply enterprise-grade engineering standard
 - **X (Twitter):** [@Rivra](https://x.com/RivraDev)
 
 
-*"24/7 engineer"*
+*"Engineering to eliminate the mundane. I build Micro-SaaS so fellow builders can spend their lives on high-leverage work, not low-level friction."*
