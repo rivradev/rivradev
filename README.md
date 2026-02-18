@@ -1,4 +1,4 @@
-# Hi, I'm Marcus 🚀
+# Hi, I'm Gavin J.
 
 ### Solutions Architect | Founder of [Rivra LLC](https://rivra.dev)
 
