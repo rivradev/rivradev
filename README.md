@@ -8,7 +8,7 @@ Today, I lead **Rivra LLC**, where I apply enterprise-grade engineering standard
 
 ---
 
-## Current Focus: [SnapKeep](https://snapkeep.rivra.dev)
+## Current Focus: [Recite](https://recite.rivra.dev)
 **Professional Receipt Automation for the 1099 Economy.**
 *   Engineering high-precision OCR workflows to eliminate manual data entry.
 *   Building secure, "privacy-first" architectures for financial data.
