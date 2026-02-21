@@ -19,7 +19,7 @@ Today, I lead **Rivra LLC**, where I apply enterprise-grade engineering standard
 ## Engineering Philosophy
 *   **Precision over Bloat:** Minimalist design backed by robust, high-performance architecture.
 *   **Security by Default:** Leveraging decades of experience in secure system design to protect user data.
-*   **Automation Experience (AX):** Crafting software that learns and adapts to human workflows.
+*   **Generative LLM Solution Design:** Crafting software that learns and adapts to human workflows.
 
 ---
 
