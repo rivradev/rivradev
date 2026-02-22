@@ -1,4 +1,4 @@
-# Hi, I'm Gavin J.
+# Hi, I'm Gavin Jun.
 
 ### Solutions Architect | Founder of [Rivra LLC](https://rivra.dev)
 
