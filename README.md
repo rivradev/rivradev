@@ -2,7 +2,7 @@
 
 ### Solutions Architect | Founder of [Rivra LLC](https://rivra.dev)
 
-I am a **Solutions Architect with 18+ years of experience** in the San Francisco Bay Area’s Big Tech ecosystem. My career has been dedicated to engineering scalable, secure, and mission-critical systems. 
+I am a **Solutions Architect with 19+ years of experience** in the San Francisco Bay Area’s Big Tech ecosystem. My career has been dedicated to engineering scalable, secure, and mission-critical systems. 
 
 Today, I lead **Rivra LLC**, where I apply enterprise-grade engineering standards to solve everyday digital frictions. I believe that even the smallest tool deserves professional-grade integrity.
 
