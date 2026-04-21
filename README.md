@@ -23,11 +23,6 @@ Today, I lead **Rivra LLC**, where I apply enterprise-grade engineering standard
 
 ---
 
-## Legacy & Contributions
-> **Note on Activity:** Most of my 18+ years of engineering history reside within private enterprise organizations and secure Big Tech repositories. This account serves as my dedicated hub for **Rivra LLC** and indie software initiatives.
-
----
-
 ## Tech Stack & Expertise
 - **Architecture:** Distributed Systems, Cloud-Native Design, Microservices.
 - **Languages/Frameworks:** Node.js, Next.js, Python, TypeScript.
