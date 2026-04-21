@@ -25,7 +25,7 @@ Today, I lead **Rivra LLC**, where I apply enterprise-grade engineering standard
 
 ## Tech Stack & Expertise
 - **Architecture:** Distributed Systems, Cloud-Native Design, Microservices.
-- **Languages/Frameworks:** Node.js, Next.js, Python, TypeScript.
+- **Languages/Frameworks:** Node.js, Next.js, Python, TypeScript, JAVA
 - **Data & AI:** High-precision OCR, Workflow Automation, Data Engineering.
 - **Tools:** AWS, GCP, Docker, Kubernetes.
 
