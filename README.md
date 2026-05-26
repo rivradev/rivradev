@@ -1,4 +1,4 @@
-# Hi, I'm Gavin Jun.
+# Hi, I'm Gavin J.
 
 ### Solutions Architect | Founder of [Rivra LLC](https://rivra.dev)
 
@@ -10,10 +10,10 @@ Today, I lead **Rivra LLC**, where I apply enterprise-grade engineering standard
 
 ## Current Focus: [Recite](https://recite.rivra.dev)
 **Professional Receipt Automation for the 1099 Economy.**
-*   Engineering high-precision OCR workflows to eliminate manual data entry.
-*   Building secure, "privacy-first" architectures for financial data.
-*   Bridging the gap between messy digital invoices and clean, CPA-ready data.
-
+* Engineering high-precision data extraction engines to eliminate manual entry.
+* Building performant, robust auto-reconciliation systems for instant matching.
+* Architecting secure, "privacy-first" systems that guarantee IRS-compliant data.
+* Bridging the gap between messy digital invoices and clean data.
 ---
 
 ## Engineering Philosophy
